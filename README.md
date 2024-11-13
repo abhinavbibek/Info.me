@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bibek-bhandari-8052b61bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bibek-bhandari-8052b61bb/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shrijal30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shrijal30" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bibekavi22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shrijal30" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ap22110011518" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap22110011518" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shrijal_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shrijal_10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrijal_3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrijal_3000" height="30" width="40" /></a>
